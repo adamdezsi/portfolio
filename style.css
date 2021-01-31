@@ -4,10 +4,19 @@ header, header p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     align-content: center;
+    text-transform: uppercase;
+    border: none;
 }
 
-intro {
+.intro {
     align-content: center;
     background: #FAFAFF;
-    
+    }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
 }
