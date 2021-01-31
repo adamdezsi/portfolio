@@ -2,4 +2,6 @@ header, header p {
     background: #1E2749;
     color: #FAFAFF;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    align-content: center;
 }
