@@ -6,7 +6,13 @@ header, header p {
     align-content: center;
     text-transform: uppercase;
     border: none;
+    height: 15%;
 }
+
+.sectionheader {
+    font-size: 30px;
+}
+
 
 .intro {
     align-content: center;
@@ -19,4 +25,8 @@ header, header p {
     margin-right: auto;
     width: 50%;
     text-align: center;
+}
+
+img {
+    border-radius: 45px;
 }
