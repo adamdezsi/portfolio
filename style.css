@@ -5,3 +5,9 @@ header, header p {
     text-align: center;
     align-content: center;
 }
+
+intro {
+    align-content: center;
+    background: #FAFAFF;
+    
+}
