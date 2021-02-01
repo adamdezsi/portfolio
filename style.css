@@ -6,7 +6,7 @@ header, header p {
     align-content: center;
     text-transform: uppercase;
     border: none;
-    height: 15%;
+    height: 10%;
     font-size: x-large;
     padding: none;
     margin-top: none;
@@ -20,11 +20,6 @@ h2 {
     font-size: 25px;
 }
 
-
-.intro {
-    align-content: center;
-    background: #FAFAFF;
-    }
 
 .center {
     display: block;
@@ -49,8 +44,35 @@ img {
     align-content: center;
     list-style-position: inside;
 }
-
-.aboutme {
+.intro {
     background-color: #30343F;
     color: #FAFAFF;
+    }
+
+
+.aboutme {
+    background-color: #E4D9FF;
+    color: #1E2749;
+}
+
+.contact {
+    background-color: #273469;
+    color: #FAFAFF;
+}
+
+a:link {
+    color: #FAFAFF;
+}
+
+a:visited {
+    color: #E4D9FF;
+}
+
+a:hover {
+    text-transform: uppercase;
+}
+
+a:active {
+    text-transform: uppercase;
+    font-style: italic;
 }
