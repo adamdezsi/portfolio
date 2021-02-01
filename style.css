@@ -1,3 +1,5 @@
+/* container rules */
+
 header, header p {
     background: #1E2749;
     color: #FAFAFF;
@@ -32,6 +34,8 @@ img {
     border-radius: 45px;
     width: 20%;
 }
+
+/* all classes from this point*/
 
 .wrapper {
     width: 100%;
